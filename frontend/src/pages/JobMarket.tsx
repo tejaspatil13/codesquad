@@ -11,7 +11,7 @@ function JobPortal() {
             <h3 className="text-2xl font-bold text-blue-600 mb-4">HR Portal</h3>
             <p className="text-gray-600 mb-4">
               Post job openings, manage applications, and find the perfect candidates
-              for your organization.
+              for your Organization.
             </p>
             <span className="text-blue-600 font-medium">Access HR Portal →</span>
           </Link>
